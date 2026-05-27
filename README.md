@@ -8,6 +8,9 @@ Modern responsive portfolio website built using HTML, CSS and JavaScript.
 
 ![Portfolio Preview](assets/screenshots/portfolio-preview.png.png)
 
+# Button Animation
+![Animation](assets/screenshots/portfolio-animation.png)
+
 ## Features
 - Responsive Navbar
 - Hero Section
