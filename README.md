@@ -6,7 +6,7 @@ Modern responsive portfolio website built using HTML, CSS and JavaScript.
 
 ## Preview
 
-![Portfolio Preview](assets/screenshots/portfolio-preview.png.png)
+![Portfolio Preview](assets/screenshots/portfolio-preview.png)
 
 # Button Animation
 ![Animation](assets/screenshots/portfolio-animation.png)
